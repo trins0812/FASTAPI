@@ -1,0 +1,1 @@
+DATABASE_URL=postgresql://lab_7_fastapidb_user:2lLcwnjaYVMuHs1ydY6KNXM5kgn51RM0@dpg-cvugl6s9c44c73826h60-a.oregon-postgres.render.com/lab7db?sslmode=require
